@@ -1,3 +1,4 @@
+/*ejercicio 6*/
 class NodoChar {
     char valor;
     NodoChar izquierdo, derecho;
