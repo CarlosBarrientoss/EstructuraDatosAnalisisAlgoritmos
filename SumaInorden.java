@@ -1,3 +1,4 @@
+/*ejercicio 7*/
 class Nodo {
     int valor;
     Nodo izquierdo, derecho;
