@@ -1,4 +1,4 @@
-/*ejercicio 1*/
+/*ejercicio 8*/
 public class BusquedaPreorden {
 
     // Clase interna para el nodo del árbol
